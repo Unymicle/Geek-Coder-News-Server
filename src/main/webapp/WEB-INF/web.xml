@@ -5,3 +5,9 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
+
+<!-- 配置Spring -->
+<context-param>
+　　<param-name>contextConfigLocation</param-name>
+　　<param-value>classpath*:applicationContext.xml</param-value>
+</context-param>
