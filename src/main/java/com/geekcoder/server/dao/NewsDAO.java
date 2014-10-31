@@ -9,11 +9,11 @@ import com.geekcoder.server.model.News;
  */
 public interface NewsDAO {
 	//增加一条新闻
-	public void insert(News news);
+	public void insert(News news) throws Exception;
 	//更新一条新闻
-	public void update(News news);
+	public void update(News news) throws Exception;
 	//删除一条新闻
-	public void delete(int newsId);
+	public void delete(int newsId) throws Exception;
 	//查询一条新闻
 	public News queryById(int newsId);
 }
