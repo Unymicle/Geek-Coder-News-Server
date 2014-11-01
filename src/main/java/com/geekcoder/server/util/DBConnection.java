@@ -12,7 +12,7 @@ public class DBConnection {
 	//定义数据库驱动类
 	private static String driver = "com.mysql.jdbc.Driver";
 	//定义数据库连接url
-	private static String url = "jdbc:mysql//localhost:3306/geek_coder_news";
+	private static String url = "jdbc:mysql://localhost:3306/geek_coder_news";
 	//定义数据库用户名
 	private static String username = "root";
 	//定义数据库密码
