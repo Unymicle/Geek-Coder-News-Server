@@ -9,10 +9,10 @@ Geek-Coder-News is client side for android platform(https://github.com/Geek-Code
 Provide data interface and service.
 
 Use Apache Maven to  simplify the build processes  
-Use Spring Framework to provides a comprehensive programming and configuration model for modern Java-based enterprise applications
-Use git it for version control
-Use mysql as data storage
-Use eclipse as develop tools
+Use Spring Framework to provides a comprehensive programming and configuration model for modern Java-based enterprise applications  
+Use git it for version control  
+Use mysql as data storage  
+Use eclipse as develop tools  
 Use Junit 4 to test
 
 ### Requirements  
