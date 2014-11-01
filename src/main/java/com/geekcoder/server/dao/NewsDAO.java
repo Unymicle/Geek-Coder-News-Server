@@ -15,5 +15,5 @@ public interface NewsDAO {
 	//删除一条新闻
 	public void delete(int newsId) throws Exception;
 	//查询一条新闻
-	public News queryById(int newsId);
+	public News queryById(int newsId) throws Exception;
 }

@@ -1,7 +1,8 @@
 package com.geekcoder.server.dao;
 
-import com.geekcoder.server.daoImpl.CategoryDAOImpl;
-import com.geekcoder.server.daoImpl.NewsDAOImpl;
+import com.geekcoder.server.dao.impl.CategoryDAOImpl;
+import com.geekcoder.server.dao.impl.NewsDAOImpl;
+
 
 /**
  * DAO 工厂类，用于获取具体DAO的实例
