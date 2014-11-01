@@ -1,8 +1,9 @@
-package com.geekcoder.server.daoImpl;
+package com.geekcoder.server.dao.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
+
 import com.geekcoder.server.dao.CategoryDAO;
 import com.geekcoder.server.model.Category;
 import com.geekcoder.server.util.DBConnection;
